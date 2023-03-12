@@ -1,7 +1,7 @@
 # student_form
 
 Simple Student Validation form that asked the user for email and password authorization and after filling the form it will save in the firebase database.
-<strong> Made with Flutter, Dart Firebase </strong>
+<strong> Made with Flutter, Dart, Firebase and Firestore </strong>
 
 ## Getting Started
 
